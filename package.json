@@ -36,7 +36,7 @@
     "graphql": "^0.13.2",
     "graphql-cli": "^2.16.4",
     "graphql-yoga": "^1.14.10",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "prisma-binding": "^2.1.1",
     "subscriptions-transport-ws": "^0.9.15"
   },
